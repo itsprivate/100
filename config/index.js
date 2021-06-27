@@ -8,6 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "100年前的今天", "100年前"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
+  iconUrl: "https://news.buzzing.cc/avatar.png",
   menuLinks: [
     // {
     //   name: "每周精选",
